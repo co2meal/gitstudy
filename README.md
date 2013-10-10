@@ -1,5 +1,5 @@
 gitstudy
 ========
 
-깃공부
+Hello git!
 edit by me
